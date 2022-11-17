@@ -6,7 +6,7 @@ Currently, I am working in an Ed-tech startup as [Head of Engineering](https://w
 
 A fun fact about me, I am still not into Crypto 😑
 
-# 👀 I use the below tools & framework ...
+## 👀 I use the below tools & frameworks for development
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
@@ -20,17 +20,17 @@ A fun fact about me, I am still not into Crypto 😑
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-# 🎯 In the near future, I plan to ...
+## 🎯 In the near future, I plan to ...
 
 - ✍️ Become a technical writer
 - 📹 Own a Youtube channel, with awesome content ✌️
 - 💰 To create a million-dollar revenue-generating app
 
-# 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
 ![](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
-# 📫 How to reach me ...
+## 📫 How to reach me ...
 
 - Reach me on [Twitter](https://twitter.com/AmanpreetDev) and [LinkedIn](https://www.linkedin.com/in/aman-preet-singh-737845113/)
 
