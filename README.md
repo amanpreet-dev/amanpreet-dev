@@ -1,8 +1,10 @@
 # Hey 👋 , Welcome to the tech world of Aman
 
-I am a passionate developer and evergreen learner and have been around in the tech world for the past 15+ years. My native place is Dehradun, India 🇮🇳
+I am a passionate developer and evergreen learner and have been around in the tech world for the past 16+ years. My native place is Dehradun, India 🇮🇳
 
-Currently, I am working in an Ed-tech startup as [Head of Engineering](https://www.koco.com.sg/aboutkoco) based in Singapore (HQ) with branch offices in Indonesia and India.
+Currently I am working as a Freelance Full Stack Software Engineer.
+
+Previously, I was working in an Ed-tech startup as Head of Engineering based in Singapore (HQ) with branch offices in Indonesia and India.
 
 A fun fact about me, I am still not into Crypto 😑
 
@@ -28,13 +30,13 @@ A fun fact about me, I am still not into Crypto 😑
 
 ## 🌱 I’m currently learning ...
 
-![](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 ## 📫 How to reach me ...
 
-- Reach me on [Twitter](https://twitter.com/AmanpreetDev) and [LinkedIn](https://www.linkedin.com/in/aman-preet-singh-737845113/)
+- Reach me on [X](https://x.com/AmanpreetDev) and [LinkedIn](https://www.linkedin.com/in/amanpreet-dev/)
 
-- ![Twitter Followers](https://img.shields.io/twitter/follow/AmanpreetDev?style=social) ![GitHub followers](https://img.shields.io/github/followers/amanpreet-dev?style=social) ![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=amanpreet-dev/amanpreet-dev&color=00cf00)
+- ![Twitter Followers](https://img.shields.io/twitter/follow/AmanpreetDev?style=social) ![GitHub followers](https://img.shields.io/github/followers/amanpreet-dev?style=social) 
 
 <!---
 amanpreet-dev/amanpreet-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
