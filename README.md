@@ -3,7 +3,7 @@
 Platform/DevOps engineer with 18+ years of experience, currently working as **Lead DevOps & SRE** inside Amélio Inc.'s (a Canada-based SaaS company) production environment. I take manual, fragile infrastructure and make it automated, observable, and reliable — and I bring AI into the engineering workflow itself, not just the product.
 
 - 🔭 Currently: replaced a fully manual deployment process with Azure DevOps CI/CD, built a self-service environment-cloning platform, and took Amélio's platform from zero monitoring to a full observability stack (Prometheus/Grafana/Loki).
-- 🤖 Also currently: helping my team adopt an AI-assisted, agentic development workflow (Windsurf/Devin, custom Skills, MCP) — see `gemini-devops-demo` below for a public example of the DevOps + AI direction.
+- 🤖 Also currently: helping my team adopt AI-assisted, agentic development practices in our day-to-day engineering workflow — see `gemini-devops-demo` below for a public example of the DevOps + AI direction.
 - 🌱 Learning: Kubernetes (CKAD in progress), Helm, Ansible.
 - 🎤 I speak at local tech events on DevOps, Docker, Kubernetes, and AI-assisted development (most recently a Google I/O Extended talk — see `gemini-devops-demo`).
 - 🧑‍🏫 I mentor engineers online and offline, and write about platform/DevOps topics at [blogs.amanpreet.dev](https://blogs.amanpreet.dev).
