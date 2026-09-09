@@ -1,44 +1,23 @@
-# Hey 👋 , Welcome to the tech world of Aman
+# Hey 👋, I'm Aman
 
-I am a passionate developer and evergreen learner and have been around in the tech world for the past 16+ years. My native place is Dehradun, India 🇮🇳
+Platform/DevOps engineer with 18+ years of experience, currently working as **Lead DevOps & SRE** inside Amélio Inc.'s (a Canada-based SaaS company) production environment. I take manual, fragile infrastructure and make it automated, observable, and reliable — and I bring AI into the engineering workflow itself, not just the product.
 
-Currently I am working as a Freelance Full Stack Software Engineer.
+- 🔭 Currently: replaced a fully manual deployment process with Azure DevOps CI/CD, built a self-service environment-cloning platform, and took Amélio's platform from zero monitoring to a full observability stack (Prometheus/Grafana/Loki).
+- 🤖 Also currently: helping my team adopt an AI-assisted, agentic development workflow (Windsurf/Devin, custom Skills, MCP) — see `gemini-devops-demo` below for a public example of the DevOps + AI direction.
+- 🌱 Learning: Kubernetes (CKAD in progress), Helm, Ansible.
+- 🎤 I speak at local tech events on DevOps, Docker, Kubernetes, and AI-assisted development (most recently a Google I/O Extended talk — see `gemini-devops-demo`).
+- 🧑‍🏫 I mentor engineers online and offline, and write about platform/DevOps topics at [blogs.amanpreet.dev](https://blogs.amanpreet.dev).
 
-Previously, I was working in an Ed-tech startup as Head of Engineering based in Singapore (HQ) with branch offices in Indonesia and India.
+## Core stack
 
-A fun fact about me, I am still not into Crypto 😑
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 👀 I use the below tools & frameworks for development
+Full-stack foundation: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+## Currently learning
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) — CKAD in progress. Working through `kubernetes-the-hard-way` and CKAD exercises.
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+## Reach me
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## 🎯 In the near future, I plan to ...
-
-- ✍️ Become a technical writer
-- 📹 Own a Youtube channel, with awesome content ✌️
-- 💰 To create a million-dollar revenue-generating app
-
-## 🌱 I’m currently learning ...
-
-![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-
-## 📫 How to reach me ...
-
-- Reach me on [X](https://x.com/AmanpreetDev) and [LinkedIn](https://www.linkedin.com/in/amanpreet-dev/)
-
-- ![Twitter Followers](https://img.shields.io/twitter/follow/AmanpreetDev?style=social) ![GitHub followers](https://img.shields.io/github/followers/amanpreet-dev?style=social) 
-
-<!---
-amanpreet-dev/amanpreet-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/amanpreet-dev/) · [X](https://x.com/AmanpreetDev) · [Portfolio](https://amanpreet.dev) · [Blog](https://blogs.amanpreet.dev)
