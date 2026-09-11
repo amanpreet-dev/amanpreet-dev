@@ -5,7 +5,7 @@ Platform/DevOps engineer with 18+ years of experience, currently working as **Le
 - 🔭 Currently: replaced a fully manual deployment process with Azure DevOps CI/CD, built a self-service environment-cloning platform, and took Amélio's platform from zero monitoring to a full observability stack (Prometheus/Grafana/Loki).
 - 🤖 Also currently: helping my team adopt AI-assisted, agentic development practices in our day-to-day engineering workflow — see `gemini-devops-demo` below for a public example of the DevOps + AI direction.
 - 🌱 Learning: Kubernetes (CKAD in progress), Helm, Ansible.
-- 🎤 I speak at local tech events on DevOps, Docker, Kubernetes, and AI-assisted development (most recently a Google I/O Extended talk — see `gemini-devops-demo`).
+- 🎤 I speak at local tech meetups and conferences (GDG Dehradun, Doon Tech Meetup) — 6 talks since 2023 on NestJS, Docker/Kubernetes, RAG, and AI-assisted DevOps; see [Talks](#talks) below.
 - 🧑‍🏫 I mentor engineers online and offline, and write about platform/DevOps topics at [blogs.amanpreet.dev](https://blogs.amanpreet.dev).
 
 ## Core stack
@@ -17,6 +17,15 @@ Full-stack foundation: ![TypeScript](https://img.shields.io/badge/typescript-%23
 ## Currently learning
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) — CKAD in progress. Working through `kubernetes-the-hard-way` and CKAD exercises.
+
+## Talks
+
+- "Unleashing the Power of API Development with NestJS" — DevFest 2023, GDG Dehradun (Nov 2023)
+- "How to Grow as a Software Developer" — Local Developer Event (2024)
+- "What is RAG" — GDG Dehradun, DevRel Squad (Sep 2024)
+- "Docker and Kubernetes in Modern App Development" — Doon Tech Meetup (Jan 2025)
+- "Automating DevOps for Gemini AI with Kubernetes and Docker" — GDG I/O Extended 2025 (Aug 2025) — see `gemini-devops-demo`
+- "Ansible for Beginners – Automate your Servers in Minutes" — Doon Tech Meetup (May 2026)
 
 ## Reach me
 
